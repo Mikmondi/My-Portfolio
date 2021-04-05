@@ -16,6 +16,11 @@ a:link{
 .custom3{
     text-align: center;
     font-size: xxx-large;
+    background-color: grey;
+    border: 10px solid rgb(187, 185, 185);
+    opacity: 0.8;
+    border-radius: 5px;
+
     
 }
 .focus{
