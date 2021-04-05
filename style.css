@@ -13,6 +13,10 @@ a:active{
 a:link{
     color: antiquewhite;
 }
+a:hover{
+    background-color: rgb(7, 29, 29);
+    opacity: 0.8;
+}
 .custom3{
     text-align: center;
     font-size: xxx-large;
