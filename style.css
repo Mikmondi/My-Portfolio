@@ -32,6 +32,7 @@ a:link{
     border: 10px solid rgb(187, 185, 185);
     background-color: grey;
     border-radius: 5px;
+    opacity: 0.8;
 }
 .focus2{
     display: flex;
@@ -39,5 +40,12 @@ a:link{
     justify-content: space-around;
     border: 10px solid rgb(187, 185, 185);
     background-color: grey;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+.custom2{
+    background-color: grey;
+    border: 10px solid rgb(187, 185, 185);
+    opacity: 0.8;
     border-radius: 5px;
 }
