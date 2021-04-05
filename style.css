@@ -68,3 +68,11 @@ a:hover{
     margin-left: 30%;
     margin-right: 30%;
 }
+.mid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
