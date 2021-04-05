@@ -71,8 +71,23 @@ a:hover{
 .mid{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    margin-left: 20%;
-    margin-right: 20%;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
 
+}
+.mid2{
+    background-color: rgb(26, 42, 75);
+    border: 10px solid rgb(187, 185, 185);
+    opacity: 0.8;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+.mid3{
+    background-color: rgb(16, 63, 57);
+    border: 10px solid rgb(187, 185, 185);
+    border-radius: 5px;
+    opacity: 0.8;
+    padding: 10px;
 }
