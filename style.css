@@ -69,8 +69,8 @@ a:hover{
     border: 10px solid rgb(187, 185, 185);
     opacity: 0.8;
     border-radius: 5px;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
     margin-top: 10%;
     padding: 10px;
 }
@@ -86,10 +86,8 @@ a:hover{
     background-color: rgb(26, 42, 75);
     border: 10px solid rgb(187, 185, 185);
     opacity: 0.8;
-    border-radius: 5px;
+    border-radius: 0px;
     padding: 10px;
-    border-top-left-radius: 0px;
-    border-bottom-left-radius: 0px;
     
 }
 .mid3{
@@ -101,4 +99,19 @@ a:hover{
     border-right: 0;
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
+}
+.mid4{
+    background-color: rgb(16, 63, 57);
+    border: 10px solid rgb(187, 185, 185);
+    opacity: 0.8;
+    border-radius: 5px;
+    padding: 10px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-left: 0px;
+    
+}
+.mid4 li{
+    font-size: large;
+    padding-right: 120px;
 }
