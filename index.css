@@ -1,0 +1,22 @@
+body{
+    background-image: url("laptop.jpeg");
+    background-size: cover;
+    color: antiquewhite;
+    display: block;
+}
+.custom {
+    flex-direction: column;
+    text-align: center;
+    font-size: x-large;
+}
+img {
+    align-items: center;
+    border-radius: 40%;
+}
+.custom p{
+    border: 2px solid antiquewhite;
+    margin-left: 42%;
+    margin-right: 42%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
