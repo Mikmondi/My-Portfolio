@@ -21,10 +21,12 @@ img {
     padding-top: 5px;
     padding-bottom: 5px;
 }
-.custom2 {
-    display: flex;
-    float: right;
-    justify-content: space-between;
-    
-    
+a:visited{
+    color: antiquewhite;
+}
+a:active{
+    color: rgb(19, 122, 10);
+}
+a:link{
+    color: antiquewhite;
 }
